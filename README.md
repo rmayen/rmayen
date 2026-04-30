@@ -38,11 +38,11 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 | Project | What it shows | Tech |
 | --- | --- | --- |
 | [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with authentication, validation, task/project routes, persistence, and automated tests | Node.js, HTTP, Crypto |
+| [rbac-access-control-api](https://github.com/rmayen/rbac-access-control-api) | Authorization API demonstrating role-based access control decisions, policy rules, and tests | Node.js, RBAC |
+| [file-integrity-monitor](https://github.com/rmayen/file-integrity-monitor) | Defensive CLI that creates SHA-256 baselines and detects added, removed, or changed files | Node.js, SHA-256 |
+| [log-threat-analyzer](https://github.com/rmayen/log-threat-analyzer) | Authentication log analyzer that flags brute force, password spray, and unusual login patterns | Node.js, Security Logs |
+| [http-security-header-auditor](https://github.com/rmayen/http-security-header-auditor) | CLI that audits web security headers and returns graded JSON findings with recommendations | Node.js, Web Security |
 | [mini-shell](https://github.com/rmayen/mini-shell) | Cross-platform shell with built-in commands, history, directory management, and external command execution | C++, Filesystem |
-| [store-management-app](https://github.com/rmayen/store-management-app) | Command-line store system with authentication, inventory management, cart flow, and checkout | C++, OpenSSL |
-| [weather-dashboard](https://github.com/rmayen/weather-dashboard) | Responsive weather app using API data, validation, and user-friendly error handling | HTML, CSS, JavaScript |
-| [js-snake-game](https://github.com/rmayen/js-snake-game) | Browser game with canvas rendering, scoring, collision detection, and high-score tracking | JavaScript, Canvas |
-| [Password](https://github.com/rmayen/Password) | Command-line password generator with configurable rules and secure random password creation | Java |
 
 ## GitHub Snapshot
 
