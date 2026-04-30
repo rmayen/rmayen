@@ -2,7 +2,7 @@
 
 **Computer Science student at UMBC** focused on software development, systems programming, and practical web applications.
 
-I like building projects that are clear to use and solid underneath, from C/C++ command-line tools to Java Discord bots and responsive JavaScript apps.
+I like building projects that are clear to use and solid underneath, from C/C++ command-line tools to backend APIs and responsive JavaScript apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
@@ -37,10 +37,10 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 
 | Project | What it shows | Tech |
 | --- | --- | --- |
-| [construction-art-llc](https://github.com/rmayen/construction-art-llc) | Static business website with service pages, gallery content, and an appointment form | HTML, CSS |
-| [discord-music-bot](https://github.com/rmayen/discord-music-bot) | Java bot with music playback controls, queue handling, JDA integration, and LavaPlayer support | Java, JDA, LavaPlayer |
+| [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with authentication, validation, task/project routes, persistence, and automated tests | Node.js, HTTP, Crypto |
+| [mini-shell](https://github.com/rmayen/mini-shell) | Cross-platform shell with built-in commands, history, directory management, and external command execution | C++, Filesystem |
+| [portfolio-site](https://github.com/rmayen/portfolio-site) | Responsive personal portfolio site focused on projects, skills, and recruiter-friendly presentation | HTML, CSS |
 | [store-management-app](https://github.com/rmayen/store-management-app) | Command-line store system with authentication, inventory management, cart flow, and checkout | C++, OpenSSL |
-| [discord-utility-bot](https://github.com/rmayen/discord-utility-bot) | Discord.js bot with slash commands, server info, dice rolls, and utility commands | JavaScript, Discord.js |
 | [weather-dashboard](https://github.com/rmayen/weather-dashboard) | Responsive weather app using API data, validation, and user-friendly error handling | HTML, CSS, JavaScript |
 | [js-snake-game](https://github.com/rmayen/js-snake-game) | Browser game with canvas rendering, scoring, collision detection, and high-score tracking | JavaScript, Canvas |
 
