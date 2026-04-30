@@ -39,10 +39,10 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 | --- | --- | --- |
 | [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with authentication, validation, task/project routes, persistence, and automated tests | Node.js, HTTP, Crypto |
 | [mini-shell](https://github.com/rmayen/mini-shell) | Cross-platform shell with built-in commands, history, directory management, and external command execution | C++, Filesystem |
-| [portfolio-site](https://github.com/rmayen/portfolio-site) | Responsive personal portfolio site focused on projects, skills, and recruiter-friendly presentation | HTML, CSS |
 | [store-management-app](https://github.com/rmayen/store-management-app) | Command-line store system with authentication, inventory management, cart flow, and checkout | C++, OpenSSL |
 | [weather-dashboard](https://github.com/rmayen/weather-dashboard) | Responsive weather app using API data, validation, and user-friendly error handling | HTML, CSS, JavaScript |
 | [js-snake-game](https://github.com/rmayen/js-snake-game) | Browser game with canvas rendering, scoring, collision detection, and high-score tracking | JavaScript, Canvas |
+| [Password](https://github.com/rmayen/Password) | Command-line password generator with configurable rules and secure random password creation | Java |
 
 ## GitHub Snapshot
 
