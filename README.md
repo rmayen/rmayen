@@ -1,53 +1,65 @@
-### Hi there, I'm Rene Mayen
+# Rene Mayen
 
-Computer Science student at **UMBC** (University of Maryland, Baltimore County) with a focus on systems programming, operating systems, and software development. I enjoy building projects that range from low-level C/C++ applications to full-stack web apps and Discord bots.
+**Computer Science student at UMBC** focused on software development, systems programming, and practical web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
-[![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
+I like building projects that are clear to use and solid underneath, from C/C++ command-line tools to Java Discord bots and responsive JavaScript apps.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
+[![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-rmayen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmayen)
 
-### Skills
+## About Me
 
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=OpenJDK&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=222222&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+- Studying Computer Science at the University of Maryland, Baltimore County
+- Interested in systems programming, operating systems, backend development, and full-stack applications
+- Comfortable working across C, C++, Java, JavaScript, HTML, CSS, Node.js, Linux, and Git
+- Currently improving my skills in operating systems internals, data structures, algorithms, and API design
 
----
+## Tech Stack
 
-### Featured Projects
+**Languages**
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [discord-music-bot](https://github.com/rmayen/discord-music-bot) | Music bot with play, pause, skip, and queue commands | Java, JDA, LavaPlayer |
-| [discord-utility-bot](https://github.com/rmayen/discord-utility-bot) | Multi-purpose bot with slash commands, server info, and dice rolls | JavaScript, Discord.js v14 |
-| [store-management-app](https://github.com/rmayen/store-management-app) | CLI store system with auth, inventory, cart, and checkout | C++, OpenSSL |
-| [js-snake-game](https://github.com/rmayen/js-snake-game) | Classic Snake with scoring, high scores, and collision detection | JavaScript, HTML5 Canvas |
-| [weather-dashboard](https://github.com/rmayen/weather-dashboard) | Real-time weather lookup with error handling and clean UI | HTML, CSS, JavaScript |
+![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
 
----
+**Web & Tools**
 
-### GitHub Stats
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmayen&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="48%" align="middle"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmayen&theme=vue-dark&hide_border=true" width="50.8%" align="middle"/>
+## Featured Projects
+
+| Project | What it shows | Tech |
+| --- | --- | --- |
+| [construction-art-llc](https://github.com/rmayen/construction-art-llc) | Static business website with service pages, gallery content, and an appointment form | HTML, CSS |
+| [discord-music-bot](https://github.com/rmayen/discord-music-bot) | Java bot with music playback controls, queue handling, JDA integration, and LavaPlayer support | Java, JDA, LavaPlayer |
+| [store-management-app](https://github.com/rmayen/store-management-app) | Command-line store system with authentication, inventory management, cart flow, and checkout | C++, OpenSSL |
+| [discord-utility-bot](https://github.com/rmayen/discord-utility-bot) | Discord.js bot with slash commands, server info, dice rolls, and utility commands | JavaScript, Discord.js |
+| [weather-dashboard](https://github.com/rmayen/weather-dashboard) | Responsive weather app using API data, validation, and user-friendly error handling | HTML, CSS, JavaScript |
+| [js-snake-game](https://github.com/rmayen/js-snake-game) | Browser game with canvas rendering, scoring, collision detection, and high-score tracking | JavaScript, Canvas |
+
+## GitHub Snapshot
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rmayen&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Rene's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayen&layout=compact&theme=tokyonight&hide_border=true" alt="Rene's top languages" width="41%" />
 </p>
 
----
+## Current Focus
 
-### Currently Learning
+- Building stronger full-stack projects with clean frontends and reliable backend structure
+- Deepening my understanding of operating systems, memory, processes, and kernel-level concepts
+- Practicing data structures and algorithms through Java and C++ coursework
+- Writing clearer documentation so projects are easier to run, review, and maintain
 
-- Operating systems internals and kernel development
-- Advanced data structures and algorithms
-- Backend development and API design
+## Contact
 
-### Let's Connect
+I'm open to internships, software development opportunities, research collaborations, and open-source work.
 
-I'm open to internship opportunities, research collaborations, and open-source contributions. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rene-mayen-cs) or [email](mailto:rmayen1@umbc.edu).
+Reach me on [LinkedIn](https://www.linkedin.com/in/rene-mayen-cs) or by email at [rmayen1@umbc.edu](mailto:rmayen1@umbc.edu).
