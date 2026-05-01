@@ -11,7 +11,7 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 ## About Me
 
 - Studying Computer Science at the University of Maryland, Baltimore County
-- Interested in systems programming, operating systems, backend development, and full-stack applications
+- Interested in systems programming, operating systems, backend development, and security tooling
 - Comfortable working across C, C++, Java, JavaScript, HTML, CSS, Node.js, Linux, and Git
 - Currently improving my skills in operating systems internals, data structures, algorithms, and API design
 
@@ -37,17 +37,17 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 
 | Project | What it shows | Tech |
 | --- | --- | --- |
-| [network-packet-parser](https://github.com/rmayen/network-packet-parser) | Packet metadata analyzer with protocol summaries, top talkers, and suspicious traffic detection | C++, Networking |
-| [linux-permission-auditor](https://github.com/rmayen/linux-permission-auditor) | CLI that audits risky Linux permission patterns such as world-writable paths | C++, Linux Security |
-| [memory-allocator-sim](https://github.com/rmayen/memory-allocator-sim) | First-fit allocator simulator with block splitting, coalescing, and fragmentation statistics | C++, Memory |
-| [process-scheduler-sim](https://github.com/rmayen/process-scheduler-sim) | CPU scheduling simulator for FCFS, shortest-job-first, and round-robin algorithms | C++, Operating Systems |
-| [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with authentication, validation, task/project routes, persistence, and automated tests | Node.js, HTTP, Crypto |
-| [rbac-access-control-api](https://github.com/rmayen/rbac-access-control-api) | Authorization API demonstrating role-based access control decisions, policy rules, and tests | Node.js, RBAC |
+| [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with token auth, validation, task/project routes, persistence, and automated tests — zero runtime dependencies | Node.js, HTTP, Crypto |
+| [http-security-header-auditor](https://github.com/rmayen/http-security-header-auditor) | CLI that audits HTTP security headers, scores responses A–F, and produces JSON reports | Node.js, Security |
+| [log-threat-analyzer](https://github.com/rmayen/log-threat-analyzer) | Defensive auth-log analyzer that flags brute force, password spraying, and credential stuffing patterns | Node.js, Security |
+| [file-integrity-monitor](https://github.com/rmayen/file-integrity-monitor) | SHA-256 baseline tool that detects added, removed, or modified files in a directory tree | Node.js, Security |
+| [mini-shell](https://github.com/rmayen/mini-shell) | Cross-platform C++ shell with built-in commands, history, and external command execution | C++, Systems |
+| [store-management-app](https://github.com/rmayen/store-management-app) | Multi-role CLI store with salted SHA-256 auth, inventory, cart, and persistent activity logs | C++, OOP |
 
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rmayen&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Rene's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmayen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rene's GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayen&layout=compact&theme=tokyonight&hide_border=true" alt="Rene's top languages" width="41%" />
 </p>
 
