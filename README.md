@@ -47,8 +47,12 @@ I like building projects that are clear to use and solid underneath, from C/C++ 
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rmayen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rene's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayen&layout=compact&theme=tokyonight&hide_border=true" alt="Rene's top languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayen&theme=tokyonight" alt="Rene's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayen&theme=tokyonight" alt="Rene's top languages" width="41%" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=rmayen&theme=tokyonight&hide_border=true" alt="Rene's contribution streak" width="60%" />
 </p>
 
 ## Current Focus
