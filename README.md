@@ -4,7 +4,7 @@ Computer Science student at UMBC focused on cybersecurity, systems programming, 
 
 I enjoy building practical and reliable software, especially projects related to Linux, operating systems, backend development, and low-level programming.
 
-My experience includes shell implementations, multithreaded programming, backend APIs, and web applications using C/C++, Java, and JavaScript.
+My experience  multithreaded programming, backend APIs, and web applications using C/C++, Java, and JavaScript.
 
 Currently interested in operating systems, defensive security, backend engineering, and scalable software systems.
 
