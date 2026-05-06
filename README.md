@@ -1,12 +1,6 @@
 # Hi there, I am Rene Mayen 👋
 
-Computer Science student at UMBC focused on cybersecurity, systems programming, and software development.
-
-I enjoy building practical and reliable software, especially projects related to Linux, operating systems, backend development, and low-level programming.
-
-My experience includes building security CLIs, multithreaded programming, backend APIs, and web applications using C/C++, Java, and JavaScript.
-
-Currently interested in operating systems, defensive security, backend engineering, and scalable software systems.
+Computer Science student at UMBC focused on cybersecurity, systems programming, and software development. I enjoy building practical and reliable software, especially around Linux, operating systems, backend development, and low-level programming. My experience includes security CLIs, multithreaded programming, backend APIs, and web applications using C/C++, Java, and JavaScript, and I am currently interested in operating systems, defensive security, backend engineering, and scalable software systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
