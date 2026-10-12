@@ -1,6 +1,6 @@
 # Hi there, I am Rene Mayen 👋
 
-Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a full stack help desk app in React and TypeScript, a double-entry ledger API in FastAPI, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
+Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a real-time kanban app in React and TypeScript with WebSockets, a full stack help desk app, a double-entry ledger API in FastAPI, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
@@ -33,6 +33,7 @@ Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -40,6 +41,7 @@ Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) 
 
 | Project | What it shows | Tech |
 | --- | --- | --- |
+| [boardly](https://github.com/rmayen/boardly) | Real-time kanban: React drag-and-drop, Express + WebSockets, scrypt auth with cookie sessions, SQLite, Docker; 18 tests | React, TypeScript, WebSockets, Docker |
 | [ticketdesk](https://github.com/rmayen/ticketdesk) | Full stack help desk app: React client, Express REST API, SQLite, enforced status workflow, 16 tests, CI | React, TypeScript, Node.js, SQLite |
 | [ledgerkit](https://github.com/rmayen/ledgerkit) | Double-entry ledger API: balanced entries, idempotent transfers, overdraft protection, statements, reconciliation; 20 tests | Python, FastAPI, SQLite |
 | [datalint](https://github.com/rmayen/datalint) | Schema-driven CSV validator with normalized output, row-level exceptions, and a reconciliation summary that always adds up; 27 tests | Python, pytest |
