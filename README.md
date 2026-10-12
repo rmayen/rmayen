@@ -1,6 +1,6 @@
 # Hi there, I am Rene Mayen 👋
 
-Computer Science student at UMBC focused on cybersecurity, systems programming, and software development. I enjoy building practical and reliable software, especially around Linux, operating systems, backend development, and low-level programming. My experience includes security CLIs, multithreaded programming, backend APIs, and web applications using C/C++, Java, and JavaScript, and I am currently interested in operating systems, defensive security, backend engineering, and scalable software systems.
+Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a full stack help desk app in React and TypeScript, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
@@ -9,8 +9,8 @@ Computer Science student at UMBC focused on cybersecurity, systems programming, 
 ## About Me
 
 - Studying Computer Science at the University of Maryland, Baltimore County
-- Interested in systems programming, operating systems, backend development, and security tooling
-- Comfortable working across C, C++, Java, JavaScript, HTML, CSS, Node.js, Linux, and Git
+- Interested in full stack and backend development, systems programming, and security tooling
+- Comfortable working across TypeScript, JavaScript, Python, C, C++, Java, React, Node.js, SQL, Linux, and Git
 - Currently improving my skills in operating systems internals, data structures, algorithms, and API design
 
 ## Tech Stack
@@ -21,12 +21,16 @@ Computer Science student at UMBC focused on cybersecurity, systems programming, 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Web & Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -35,6 +39,8 @@ Computer Science student at UMBC focused on cybersecurity, systems programming, 
 
 | Project | What it shows | Tech |
 | --- | --- | --- |
+| [ticketdesk](https://github.com/rmayen/ticketdesk) | Full stack help desk app: React client, Express REST API, SQLite, enforced status workflow, 16 tests, CI | React, TypeScript, Node.js, SQLite |
+| [datalint](https://github.com/rmayen/datalint) | Schema-driven CSV validator with normalized output, row-level exceptions, and a reconciliation summary that always adds up; 27 tests | Python, pytest |
 | [taskflow-api](https://github.com/rmayen/taskflow-api) | REST API with token auth, validation, task/project routes, persistence, and automated tests — zero runtime dependencies | Node.js, HTTP, Crypto |
 | [http-security-header-auditor](https://github.com/rmayen/http-security-header-auditor) | CLI that audits HTTP security headers, scores responses A–F, and produces JSON reports | Node.js, Security |
 | [log-threat-analyzer](https://github.com/rmayen/log-threat-analyzer) | Defensive auth-log analyzer that flags brute force, password spraying, and credential stuffing patterns | Node.js, Security |
