@@ -1,6 +1,6 @@
 # Hi there, I am Rene Mayen 👋
 
-Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a real-time kanban app in React and TypeScript with WebSockets, a full stack help desk app, a double-entry ledger API in FastAPI, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
+Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a document Q&A service with cited answers and an evaluation harness, a real-time kanban app in React and TypeScript with WebSockets, a full stack help desk app, a double-entry ledger API in FastAPI, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
@@ -41,6 +41,7 @@ Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) 
 
 | Project | What it shows | Tech |
 | --- | --- | --- |
+| [docqa](https://github.com/rmayen/docqa) | Document Q&A with cited answers: hybrid BM25 + embedding retrieval, swappable LLM backends (Claude, Ollama, offline stub), evaluation harness in CI; 24 tests | Python, FastAPI, Claude API |
 | [boardly](https://github.com/rmayen/boardly) | Real-time kanban: React drag-and-drop, Express + WebSockets, scrypt auth with cookie sessions, SQLite, Docker; 18 tests | React, TypeScript, WebSockets, Docker |
 | [ticketdesk](https://github.com/rmayen/ticketdesk) | Full stack help desk app: React client, Express REST API, SQLite, enforced status workflow, 16 tests, CI | React, TypeScript, Node.js, SQLite |
 | [ledgerkit](https://github.com/rmayen/ledgerkit) | Double-entry ledger API: balanced entries, idempotent transfers, overdraft protection, statements, reconciliation; 20 tests | Python, FastAPI, SQLite |
