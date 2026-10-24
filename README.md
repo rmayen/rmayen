@@ -63,12 +63,12 @@ Computer Science student at UMBC (Cybersecurity track, expected December 2026) b
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayen&theme=default" alt="Rene's GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayen&theme=default" alt="Rene's top languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayen&theme=default&v=2" alt="Rene's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayen&theme=default&v=2" alt="Rene's top languages" width="41%" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=rmayen&theme=default&hide_border=true" alt="Rene's contribution streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=rmayen&theme=default&hide_border=true&v=2" alt="Rene's contribution streak" width="60%" />
 </p>
 
 ## Current Focus
