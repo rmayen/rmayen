@@ -2,9 +2,9 @@
 
 Computer Science student at UMBC (Cybersecurity track, expected December 2026) building full stack, backend, and systems software. Projects include a persistent job queue with crash recovery, a document Q&A service with cited answers and an evaluation harness, a real-time kanban app with WebSockets, a full stack help desk application, a double-entry ledger API, a data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security tools. I focus on tested, well-documented, maintainable code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
-[![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-rmayen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmayen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
+[![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-rmayen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rmayen)
 
 ## About Me
 
@@ -17,25 +17,25 @@ Computer Science student at UMBC (Cybersecurity track, expected December 2026) b
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Web & Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Featured Projects
 
@@ -57,12 +57,12 @@ Computer Science student at UMBC (Cybersecurity track, expected December 2026) b
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayen&theme=tokyonight" alt="Rene's GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayen&theme=tokyonight" alt="Rene's top languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayen&theme=default" alt="Rene's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayen&theme=default" alt="Rene's top languages" width="41%" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=rmayen&theme=tokyonight&hide_border=true" alt="Rene's contribution streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=rmayen&theme=default&hide_border=true" alt="Rene's contribution streak" width="60%" />
 </p>
 
 ## Current Focus
