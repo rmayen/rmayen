@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&width=760&lines=Computer+Science+%40+UMBC;Full+Stack+%26+Systems+Engineering;Building+reliable%2C+well-tested+software" alt="Typing animation" /></a>
 
+<img src="https://komarev.com/ghpvc/?username=rmayen&label=Profile%20views&color=7C9CFF&style=flat" alt="Profile views" />
+
 </div>
 
 Computer Science student at UMBC (Cybersecurity track, expected December 2026) building full stack, backend, and systems software. Projects include a persistent job queue with crash recovery, a document Q&A service with cited answers and an evaluation harness, a real-time kanban app with WebSockets, a full stack help desk application, a double-entry ledger API, a data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security tools. I focus on tested, well-documented, maintainable code.
