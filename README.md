@@ -1,6 +1,6 @@
-# Hi there, I am Rene Mayen 👋
+# Rene Mayen
 
-Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) who builds software end to end: a background job queue with crash recovery, a document Q&A service with cited answers and an evaluation harness, a real-time kanban app in React and TypeScript with WebSockets, a full stack help desk app, a double-entry ledger API in FastAPI, a Python data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security CLIs. I like practical, tested, well-documented code and I am currently looking for software engineering internships for Summer 2026.
+Computer Science student at UMBC (Cybersecurity track, expected December 2026) building full stack, backend, and systems software. Projects include a persistent job queue with crash recovery, a document Q&A service with cited answers and an evaluation harness, a real-time kanban app with WebSockets, a full stack help desk application, a double-entry ledger API, a data validation tool, REST APIs in Node.js, systems programs in C and C++, and defensive security tools. I focus on tested, well-documented, maintainable code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rene%20Mayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-mayen-cs)
 [![Email](https://img.shields.io/badge/Email-rmayen1%40umbc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmayen1@umbc.edu)
@@ -74,6 +74,6 @@ Computer Science senior at UMBC (Cybersecurity track, graduating December 2026) 
 
 ## Contact
 
-I'm open to internships, software development opportunities, research collaborations, and open-source work.
+I welcome opportunities in software engineering, research collaboration, and open-source work.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/rene-mayen-cs) or by email at [rmayen1@umbc.edu](mailto:rmayen1@umbc.edu).
